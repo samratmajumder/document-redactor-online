@@ -1,0 +1,25 @@
+{
+  "name": "document-redaction-tool",
+  "version": "1.0.0",
+  "description": "A secure document redaction tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^3.6.172",
+    "@mui/material": "^5.14.5",
+    "@mui/icons-material": "^5.14.5",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "vite": "^4.4.9"
+  }
+}
