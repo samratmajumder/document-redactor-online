@@ -2,6 +2,7 @@
 
 A secure, client-side document redaction tool for permanently removing sensitive information from PDFs and images.
 
+![Document Redaction Tool](./screenshot2.png)
 ![Document Redaction Tool](./screenshot.png)
 
 ## 🔒 Features
